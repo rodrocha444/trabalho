@@ -3,6 +3,7 @@
 
 ### Parte 1
 - Para a execução do algoritmo e obtenção dos gráficos da parte 1 do projeto deve-se entrar no diretório */parte1/*, onde estarão armazenados os algoritmos e os gráficos utilizados
+    - Primeiramente executar */parte1/introducao.py*, arquivo que contém os códigos da introdução ao *machine learning* com *scikit-learn*
     - O primeiro algoritmo está em */parte1/algoritmo1_e_graficos.py*
     - O segundo algoritmo está em */parte1/algoritmo2_e_graficos.py*
     - O terceiro algoritmo está em */parte1/algoritmo3_e_graficos.py*
