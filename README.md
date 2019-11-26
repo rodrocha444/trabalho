@@ -1,5 +1,5 @@
 # Trabalho Prático
-## Introdução ao Scikit-Learn - Python (individual)
+## Introdução ao *Scikit-Learn* - Python (individual)
 
 ### Parte 1
 - Para a execução do algoritmo e obtenção dos gráficos da parte 1 do projeto deve-se entrar no diretório */parte1/*, onde estarão armazenados os algoritmos e os gráficos utilizados
